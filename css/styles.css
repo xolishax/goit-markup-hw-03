@@ -272,6 +272,8 @@ footer {
 }
 .last-section-logo {
     margin-right: 0;
+    display: block;
+    margin-bottom: 20px;
 }
 .address-text {
     font-style: normal;
